@@ -1,0 +1,7 @@
+C:\Users\Ertugrul\source\repos\CoderSpaceTest\CoderSpaceTest\bin\Debug\CoderSpaceTest.exe.config
+C:\Users\Ertugrul\source\repos\CoderSpaceTest\CoderSpaceTest\bin\Debug\CoderSpaceTest.exe
+C:\Users\Ertugrul\source\repos\CoderSpaceTest\CoderSpaceTest\bin\Debug\CoderSpaceTest.pdb
+C:\Users\Ertugrul\source\repos\CoderSpaceTest\CoderSpaceTest\obj\Debug\CoderSpaceTest.csprojAssemblyReference.cache
+C:\Users\Ertugrul\source\repos\CoderSpaceTest\CoderSpaceTest\obj\Debug\CoderSpaceTest.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\source\repos\CoderSpaceTest\CoderSpaceTest\obj\Debug\CoderSpaceTest.exe
+C:\Users\Ertugrul\source\repos\CoderSpaceTest\CoderSpaceTest\obj\Debug\CoderSpaceTest.pdb
